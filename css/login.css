@@ -16,6 +16,8 @@
     background: url('s.webp') no-repeat; 
     background-size: cover;
     background-position: center;
+    max-width: 1300px;
+    min-width: 300px;
 
  }
 
@@ -129,3 +131,4 @@
    text-decoration: underline;
 
 }
+
